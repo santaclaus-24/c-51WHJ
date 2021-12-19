@@ -1,0 +1,30 @@
+p   {
+    color: red;
+  }
+
+*{
+    border: dotted;
+}
+
+.header{
+    color: sandybrown;
+    background-color: rgb(183, 0, 255);
+    display: flex;
+    justify-content: start;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #00ffff;
+}
+
